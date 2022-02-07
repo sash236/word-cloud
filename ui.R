@@ -1,3 +1,5 @@
+# Source: https://github.com/rstudio/shiny-examples/tree/main/082-word-cloud
+
 fluidPage(
   # Application title
   titlePanel("Word Cloud"),
